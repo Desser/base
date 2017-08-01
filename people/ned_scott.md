@@ -1,5 +1,5 @@
 ## Personal data
-![Ned photo](https://s3.amazonaws.com/f6s-public/profiles/998099_th1.jpg)  
+![Ned photo](https://steemitimages.com/0x0/http://i.imgsafe.org/7932c46701.jpg)  
 Name:Ned Scott
 Location:USA
 ## Projects 
