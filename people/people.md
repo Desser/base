@@ -9,5 +9,6 @@
 * [Jani Valjavec](jani_valjavec.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
 * [Reeve Collins](reeve_collins.md) 
+* [Reggie Middleton](reggie_middleton.md) 
 * [Tim M. Zagar](tim_zagar.md)
 * [Zooko Wilcox](zooko_wilcox.md)
