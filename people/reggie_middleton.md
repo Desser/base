@@ -11,4 +11,3 @@ Twitter: [Twitter](https://twitter.com/reggiemiddleton)
 Blog: [Boom Bust Blog](http://www.boombustblog.com/)
 ## About
 Reggie Middleton is an American financial analyst
-[Reddit AMA #2]( )
