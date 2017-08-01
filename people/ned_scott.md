@@ -1,5 +1,5 @@
 ## Personal data
-![Ned photo](https://steemitimages.com/0x0/http://i.imgsafe.org/7932c46701.jpg)  
+![Ned photo](https://coinreport.net/wp-content/uploads/2016/05/Steemit-CEO-Ned-Scott-300x300.jpg)  
 Name:Ned Scott
 Location:USA
 ## Projects 
