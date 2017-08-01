@@ -11,8 +11,8 @@ Veritaseum is a virtual wallet that enables users to create One-to-one financial
 System uses Smart Contracts to create unbreakable, self enforcing agreements that are embedded in the Blockchain.
 ## Contacts
 Github: [Github](https://github.com/veritaseum)  
-Linkedin: [Linkedin](https://www.linkedin.com/company-beta/5252172)
-Blog:[Blog](http://www.jackobian.com/threads/veritaseum-cryptocurrency.65456/)
+Linkedin: [Linkedin](https://www.linkedin.com/company-beta/5252172)  
+Blog:[Blog](http://www.jackobian.com/threads/veritaseum-cryptocurrency.65456/)  
 Facebook: [Facebook](https://www.facebook.com/Veritaseum)  
 ## About
 [Veritaseum review](https://bitconnect.co/bitcoin-news/143/veritaseum-makes-hedge-fund-trades-p2p-via-blockchain-no-banks-or-brokers-required)  
