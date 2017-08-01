@@ -1,5 +1,5 @@
 ## Personal data
-![Ned photo](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA2IAAAAJDE0ZDNkYWI0LTJiY2QtNDdmZC04NmUyLTllNmZjMjllNzE2Yg.jpg) 
+![Ned photo](https://s3.amazonaws.com/f6s-public/profiles/998099_th1.jpg)  
 Name:Ned Scott
 Location:USA
 ## Projects 
