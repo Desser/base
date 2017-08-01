@@ -8,6 +8,7 @@
 * [Daniel Larimer](daniel_larimer.md)
 * [Jani Valjavec](jani_valjavec.md)
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
+* [Ned Scott](ned_scott.md)
 * [Reeve Collins](reeve_collins.md) 
 * [Tim M. Zagar](tim_zagar.md)
 * [Zooko Wilcox](zooko_wilcox.md)
