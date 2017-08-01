@@ -7,6 +7,7 @@
 * [Ethereum](ethereum.md)
 * [Iconomi](iconomi.md)
 * [NEO](neo.md)
+* [Steem](steem.md)
 * [Stratis](stratis.md)
 * [Tether](tether.md)
 * [Waves](waves.md)
