@@ -15,5 +15,5 @@ Linkedin: [Linkedin](https://www.linkedin.com/company-beta/5252172)
 Blog:[Blog](http://www.jackobian.com/threads/veritaseum-cryptocurrency.65456/)  
 Facebook: [Facebook](https://www.facebook.com/Veritaseum)  
 ## About
-[Veritaseum review](https://bitconnect.co/bitcoin-news/143/veritaseum-makes-hedge-fund-trades-p2p-via-blockchain-no-banks-or-brokers-required)  
-[Veritaseum review](http://www.jackobian.com/threads/veritaseum-cryptocurrency.65456/)
+[Veritaseum bitconnect review](https://bitconnect.co/bitcoin-news/143/veritaseum-makes-hedge-fund-trades-p2p-via-blockchain-no-banks-or-brokers-required)  
+[Veritaseum jackobian review](http://www.jackobian.com/threads/veritaseum-cryptocurrency.65456/)
