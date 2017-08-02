@@ -8,6 +8,7 @@
 * [Ethereum](ethereum.md)
 * [Iconomi](iconomi.md)
 * [Lisk](lisk.md)
+* [Monero](monero.md)
 * [NEO](neo.md)
 * [Qtum](qtum.md)
 * [Sia](sia.md)
