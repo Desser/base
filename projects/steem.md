@@ -3,7 +3,7 @@
     Name: Steem  
     [Website](https://steem.io/)  
     Year founded: 2016  
-    Currency: coin token [STEEM](https://coinmarketcap.com/currencies/steem/)  
+    Currency: coin [STEEM](https://coinmarketcap.com/currencies/steem/)  
 ## Staff  
    Founder [Daniel Larimer](/people/daniel_larimer.md)  
    Co-Founder and CEO [Ned Scott](/people/ned_scott.md)  
