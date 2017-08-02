@@ -1,9 +1,9 @@
 ## Overview
 ![Monero logo](../projects/logo/monero.png)  
     
-   Name Monero
-   [Website](http://www.monero.cc/) 
-   Year founded: Apr 2014
+   Name Monero  
+   [Website](http://www.monero.cc/)  
+   Year founded: Apr 2014  
    Currency: Monero coin [(XMR)](https://coinmarketcap.com/currencies/monero/) 
 ## Staff 
    Founder: unknown (pseudonym thankful_for_today)  
