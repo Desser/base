@@ -6,7 +6,7 @@
    Year founded: Apr 2014
    Currency: Monero coin [(XMR)](https://coinmarketcap.com/currencies/monero/) 
 ## Staff 
-   Founder: unknown (pseudoname thankful_for_today)  
+   Founder: unknown (pseudonym thankful_for_today)  
    Core team:  
 	[othe](othe@getmonero.org)  
 	[smooth](smooth@getmonero.org), [Github profile](https://github.com/iamsmooth)  
