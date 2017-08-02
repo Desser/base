@@ -2,7 +2,7 @@
   ![Bitcoin Cash logo](../projects/logo/bitcoin_cash.png)  
   Name: Bitcoin Cash
   [Website](https://www.bitcoincash.org/)  
-  Year founded: Aug 2017 
+  Year founded: Aug 2017  
   Currency: coin [BCH](https://coinmarketcap.com/currencies/bitcoin-cash/)  
 ## Staff 
    Appeared as a fork of main Bitcoin blockchain
