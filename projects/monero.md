@@ -1,5 +1,5 @@
 ## Overview
-![ logo](../logo/monero.png)  
+![Monero logo](../logo/monero.png)  
     
     Name Monero
     [Website](http://www.monero.cc/) 
