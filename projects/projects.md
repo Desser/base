@@ -9,6 +9,7 @@
 * [Iconomi](iconomi.md)
 * [Lisk](lisk.md)
 * [NEO](neo.md)
+* [Qtum](qtum.md)
 * [Sia](sia.md)
 * [Steem](steem.md)
 * [Stratis](stratis.md)
