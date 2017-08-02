@@ -1,25 +1,25 @@
 ## Overview
    ![ logo](../projects/logo/*.png)  
-    Name
-    [Website]()
-    Year founded:
-    Currency: coin OR token [](https://coinmarketcap.com/...)
+    Name  
+    [Website]()  
+    Year founded:  
+    Currency: coin OR token [](https://coinmarketcap.com/...)  
 ## Staff (as much as found)
-    Founder [](../people/*.md)
-    Cofounder [](../people/*.md)
+    Founder [](../people/*.md)  
+    Cofounder [](../people/*.md)  
      etc.
 ## Business Model
-    details
+    details  
 ## Contacts
     [GitHub]() 
     [Bitcointalk]() 
     [Facebook]() 
     [Linkedin]() 
-    [Official forum]() 
-    [Blog]()
-    [Slack]()
-    etc.
-## About (could be useful links, necessary info)
+    [Official forum]()  
+    [Blog]()  
+    [Slack]()  
+    etc.  
+## About (could be useful links, necessary info)  
 
 
 ---
