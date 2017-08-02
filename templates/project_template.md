@@ -16,6 +16,7 @@
     [Facebook]() 
     [Linkedin]() 
     [Official forum]() 
+    [Blog]()
     [Slack]()
     etc.
 ## About (could be useful links, necessary info)
