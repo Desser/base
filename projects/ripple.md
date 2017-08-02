@@ -1,5 +1,5 @@
 ## Overview
-   ![ logo](../projects/logo/*.png)  
+   ![ logo](../projects/logo/ripple.png)  
     Name: Ripple  
     [Website](https://ripple.com/)  
     Year founded: 2012
