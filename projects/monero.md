@@ -21,10 +21,10 @@
 Monero uses unbreakable cryptography to ensure that no one can see how much money you have or where you spend it, even if they know your wallet address.
 	
 ## Contacts
-   [GitHub](https://github.com/monero-project/) 
-   [Bitcointalk](https://bitcointalk.org/index.php?topic=583449.0) 
-   [Facebook](https://www.facebook.com/monerocurrency) 
-   [Forum](https://forum.getmonero.org/)  
+   [GitHub](https://github.com/monero-project/)  
+   [Bitcointalk](https://bitcointalk.org/index.php?topic=583449.0)  
+   [Facebook](https://www.facebook.com/monerocurrency)  
+   [Forum](https://forum.getmonero.org/)   
 ## About 
    [Reddit review](https://www.reddit.com/r/Monero/comments/668rl4/xmrto_review/) 
 
