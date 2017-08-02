@@ -5,6 +5,7 @@
 * [Chris Trew](chris_trew.md)   
 * [Chris Larsen](chris_larsen.md)  
 * [Craig Sellars](craig_sellars.md)  
+* [Chris Larsen](chris_larsen.md)   
 * [Da Hongfei](da_hongfei.md)  
 * [Daniel Larimer](daniel_larimer.md)  
 * [David Vorick](david_vorick.md)  
@@ -21,3 +22,4 @@
 * [Reggie Middleton](reggie_middleton.md)  
 * [Tim M. Zagar](tim_zagar.md)  
 * [Zooko Wilcox](zooko_wilcox.md)  
+
