@@ -7,7 +7,7 @@
    Currency: Monero coin [(XMR)](https://coinmarketcap.com/currencies/monero/) 
 ## Staff 
    Founder: unknown (pseudoname thankful_for_today)  
-   Core team:
+   Core team:  
 	[othe](othe@getmonero.org)  
 	[smooth](smooth@getmonero.org), [Github profile](https://github.com/iamsmooth)  
 	[Riccardo "fluffypony" Spagni](ric@getmonero.org), [Github profile](https://github.com/fluffypony)  
