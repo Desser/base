@@ -2,7 +2,7 @@
   ![Dash logo](../projects/logo/dash.png)  
    Name: Dash  
    [Website](https://www.dash.org/)  
-   Year founded: Jan 2014 
+   Year founded: Jan 2014  
    Currency: coin [DASH](https://coinmarketcap.com/currencies/dash/)  
 ## Staff (as much as found)
    Founder [Evan Duffield](../people/evan_duffield.md)  
