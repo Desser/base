@@ -8,7 +8,7 @@
    Co-Founder [Jackson Palmer](../people/jackson_palmer.md)  
    Co-Founder [Billy Markus](../people/billy_markus.md)  
  ## Business Model 
-    Dogecoin is an open source peer-to-peer cryptocurrency with a focus on fun, generosity, and community. The currency is gaining traction as an Internet tipping system, in which social media users grant Dogecoin tips to other users for providing interesting or noteworthy content
+   Dogecoin is an open source peer-to-peer cryptocurrency with a focus on fun, generosity, and community. The currency is gaining traction as an Internet tipping system, in which social media users grant Dogecoin tips to other users for providing interesting or noteworthy content
  ## Contacts
     [GitHub](https://github.com/dogecoin)  
     [Bitcointalk](https://bitcointalk.org/index.php?topic=361813.0)  
