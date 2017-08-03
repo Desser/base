@@ -3,7 +3,7 @@
 Name:  Billy Markus
 Location: USA
 ## Projects 
-Name: [Doge coin](../projects/doge_coin.md)  
+Name: [Dogecoin](../projects/dogecoin.md)  
 Position: 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/billy-markus-9306b4143/)   
