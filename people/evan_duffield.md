@@ -4,7 +4,7 @@ Name: Evan Duffield
 Location: USA, Phoenix, Arizona Area  
 ## Projects 
 Name: [Dash](../projects/dash.md)  
-Position: 
+Position: Founder
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/evan-duffield-98645515)  
 [Github](https://github.com/eduffield222)  
