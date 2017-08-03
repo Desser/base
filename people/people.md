@@ -2,6 +2,7 @@
 
 * [Alexander Ivanov](alexander_ivanov.md)
 * [Anton Churyumov](anton_churyumov.md)
+* [Anton Churyumov](billy_markus.md)
 * [Brock Pierce](brock_pierce.md)  
 * [Chris Trew](chris_trew.md)   
 * [Craig Sellars](craig_sellars.md)  
@@ -9,6 +10,7 @@
 * [Da Hongfei](da_hongfei.md)  
 * [Daniel Larimer](daniel_larimer.md)
 * [David Vorick](david_vorick.md)
+* [Jackson Palmer](jackson_palmer.md)
 * [Jani Valjavec](jani_valjavec.md)
 * [Jed McCaleb](jed_mccaleb.md) 
 * [Jordan Earls](jordan_earls.md)
