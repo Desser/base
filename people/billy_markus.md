@@ -4,7 +4,7 @@ Name:  Billy Markus
 Location: USA
 ## Projects 
 Name: [Dogecoin](../projects/dogecoin.md)  
-Position: 
+Position: Co-Founder  
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/billy-markus-9306b4143/)   
 [Twitter](https://twitter.com/billym2k)  
