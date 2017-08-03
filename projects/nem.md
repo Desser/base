@@ -15,6 +15,6 @@
    [Official forum](https://forum.nem.io/)  
    [Reddit](https://www.reddit.com/r/nem)      
    [Telegram](https://telegram.me/joinchat/Al-9jj3ruJOkbxmwQ7wy-Q)  
-## About (could be useful links, necessary info)  
+## About  
 [NEM tutorial](https://blog.nem.io/nem-tutorial-list/)   
 
