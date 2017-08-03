@@ -4,7 +4,7 @@
 * [Bitcoin Cash](bitcoin_cash.md)
 * [BitConnect](bitconnect.md)
 * [BitShares](bitshares.md)
-* [Dogecoin](doge_coin.md)
+* [Dogecoin](dogecoin.md)
 * [Ethereum](ethereum.md)
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)
