@@ -1,6 +1,6 @@
 ## Personal data
 ![Billy Markus photo](../people/photo/billy_markus.jpg)  
-Name:  Billy Markus
+Name:  Billy Markus  
 Location: USA
 ## Projects 
 Name: [Dogecoin](../projects/dogecoin.md)  
