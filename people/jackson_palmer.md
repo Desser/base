@@ -3,7 +3,7 @@
 Name:  Jackson Palmer
 Location: USA 
 ## Projects 
-Name: [Doge coin](../projects/dogecoin.md)  
+Name: [Dogecoin](../projects/dogecoin.md)  
 Position: Founder
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/jacksonpalmer/)  
