@@ -1,12 +1,9 @@
 ## Blockchain currencies and assets 
-
-3.  [Ripple](/projects/Ripple.md)
 4.  [Litecoin](/projects/Litecoin.md)
 5.  [Dash](/projects/Dash.md)
 6.  [NEM](/projects/NEM.md)
 7.  [Ethereum Classic](/projects/EthereumClassic.md)
 8.  [IOTA](/projects/IOTA.md)
-9.  [Monero](/projects/Monero.md) 
 22. [Bytecoin](/projects/Bytecoin.md) 
 23. [Siacoin](/projects/Siacoin.md)  
 24. [Lisk](/projects/Lisk.md) 
@@ -15,7 +12,6 @@
 27. [Golem](/projects/Golem.md) 
 28. [Augur](/projects/Augur.md) 
 29. [Stellar Lumens](/projects/StellarLumens.md) 
-30. [Dogecoin](/projects/Dogecoin.md) 
 31. [Byteball](/projects/Byteball.md) 
 32. [Factom](/projects/Factom.md) 
 33. [DigiByte](/projects/DigiByte.md) 
