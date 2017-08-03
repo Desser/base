@@ -1,10 +1,11 @@
 ##  List of People
 
-* [Alexander Ivanov](alexander_ivanov.md)
+* [Alexander Ivanov](alexander_ivanov.md)  
 * [Anton Churyumov](anton_churyumov.md)
 * [Billy Markus](billy_markus.md)
 * [Brock Pierce](brock_pierce.md)  
 * [Chris Trew](chris_trew.md)   
+* [Chris Larsen](chris_larsen.md)  
 * [Craig Sellars](craig_sellars.md)  
 * [Chris Larsen](chris_larsen.md)   
 * [Da Hongfei](da_hongfei.md)  
@@ -25,3 +26,4 @@
 * [Reggie Middleton](reggie_middleton.md) 
 * [Tim M. Zagar](tim_zagar.md)
 * [Zooko Wilcox](zooko_wilcox.md)
+

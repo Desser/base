@@ -1,8 +1,8 @@
 ## Personal data
 ![Billy Markus photo](../people/photo/billy_markus.jpg)  
 Name:  Billy Markus  
-Location: USA
-## Projects 
+Location: USA  
+## Projects  
 Name: [Dogecoin](../projects/dogecoin.md)  
 Position: Co-Founder  
 ## Contacts
