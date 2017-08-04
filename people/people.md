@@ -1,5 +1,5 @@
 ##  List of People
-alex_fork.md
+
 * [Aleksandra Skrzypczak](aleksandra_skrzypczak.md)
 * [Alex Fork](alex_fork.md)
 * [Andrzej Regulski](andrzej_regulski.md)
