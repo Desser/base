@@ -1,6 +1,6 @@
 ## Personal data
 ![ Alex Fork photo](../people/photo/alex_fork.jpg)  
-Name:  Alex Fork
+Name:  Alex Fork  
 Location: UK
 ## Projects 
 Name: [Humaniq](../projects/humaniq.md)  
