@@ -5,7 +5,7 @@
     Year founded:2014  
     Currency: coin [(XEM)](https://bitcointalk.org/index.php?topic=654845.0)  
 ## Staff 
-   Founder: Pseudonym [UtopianFuture](https://bitcointalk.org/index.php?action=profile;u=182582)
+   Founder: Pseudonym [UtopianFuture](../people/utopianfuture.md)
 ## Business Model
    NEM is a peer-to-peer crypto platform. It is written in Java and JavaScript with 100% original source code. NEM has a stated goal of a wide distribution model and has introduced new features in blockchain technology in its proof-of-importance (POI) algorithm. NEM also features an integrated P2P secure and encrypted messaging system, multisignature accounts and an Eigentrust++ reputation system. 
 ## Contacts
