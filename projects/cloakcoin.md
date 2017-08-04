@@ -1,5 +1,5 @@
 ## Overview
-   ![ CloakCoin logo](../projects/logo/*.png)  
+   ![ CloakCoin logo](../projects/logo/cloakcoin.png)  
     Name  CloakCoin  
     [Website](https://www.cloakcoin.com/)  
     Year founded:  2014  
