@@ -21,4 +21,5 @@
 * [Reeve Collins](reeve_collins.md) 
 * [Reggie Middleton](reggie_middleton.md) 
 * [Tim M. Zagar](tim_zagar.md)
+* [UtopianFuture](utopianfuture.md)
 * [Zooko Wilcox](zooko_wilcox.md)
