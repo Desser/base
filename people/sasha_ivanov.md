@@ -1,9 +1,9 @@
 ## Personal data
-![ivanov photo](https://pp.userapi.com/c837521/v837521597/540cd/HhcLT7KLSM4.jpg)  
+![photo](photo/sasha_ivanov.jpeg)  
    Name: Sasha Ivanov  
    Location: Russia  
 ## Projects
-  Name: [WavesPlatform](../projects/wavesplatfom.md)  
+  Name: [WavesPlatform](../projects/wavesplatform.md)  
   Position: Founder & CEO  
 ## Contacts
    Facebook: [Sasha Ivanov](https://www.facebook.com/sasha35625)  
