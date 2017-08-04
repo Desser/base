@@ -1,5 +1,5 @@
 ## Personal data
-![cashmen photo](../people/photo/cashmen.png)  
+![cashmen photo](../people/photo/cashmen.jpg)  
 Name:  cashmen
 Location: Germany
 ## Projects 
