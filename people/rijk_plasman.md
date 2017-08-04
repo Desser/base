@@ -4,7 +4,7 @@ Name:  Rijk Plasman
 Location: Amsterdam  
 ## Projects 
 Name: [Gulden](../projects/gulden.md)   
-Position: 
+Position: Founder
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/rijkplasman)   
 [Twitter](https://twitter.com/rijkplasman)   
