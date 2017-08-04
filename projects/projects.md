@@ -13,6 +13,7 @@
 * [Ethereum classic](ethereum_classic.md)
 * [Gnosis](gnosis.md)
 * [Golem](golem.md)
+* [Humaniq](humaniq.md)
 * [Iconomi](iconomi.md)
 * [IOTA](iota.md)
 * [Lisk](lisk.md)
