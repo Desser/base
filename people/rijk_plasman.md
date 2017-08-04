@@ -1,5 +1,5 @@
 ## Personal data
-![Rijk Plasman photo](.../people/photo/rijk_plasman.jpg)  
+![Rijk Plasman photo](../people/photo/rijk_plasman.jpg)  
 Name:  Rijk Plasman  
 Location: Amsterdam  
 ## Projects 
