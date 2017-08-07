@@ -22,6 +22,6 @@
 	[Youtube](https://www.youtube.com/channel/UCZUljIZUHCzZpyd1ziwlmaA)  
     [Nxter news](https://www.nxter.org/)  
  ## About 
-    [Whitepaper](http://nxtwiki.org/wiki/Whitepaper:Nxt)
+   [Whitepaper](http://nxtwiki.org/wiki/Whitepaper:Nxt)
 
 
