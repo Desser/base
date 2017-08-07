@@ -5,7 +5,7 @@
     Year founded:  2016  
     Currency: coin [(KMD)](https://coinmarketcap.com/currencies/komodo/)  
 ## Staff 
-    Founder pseudonym [jl777](../people/jl777.md)  
+   Founder pseudonym [jl777](../people/jl777.md)  
    
 ## Business Model
 Komodo is secure and private money with a built-in gateway to 32 independent Komodo participating currencies.
