@@ -33,7 +33,7 @@
 * [Iconomi](iconomi.md)
 * [IOTA](iota.md)
 ## K
-* [Komodo](Komodo.md)
+* [Komodo](komodo.md)
 ## L
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
