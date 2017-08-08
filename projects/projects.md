@@ -16,11 +16,13 @@
 ## C
 * [Civic](civic.md)
 * [CloakCoin](cloakcoin.md)
+* [Counterparty](counterparty.md)
 ## D
 * [Dash](dash.md)  
 * [DeCred](decred.md)
 * [Dogecoin](dogecoin.md)
 ## E
+* [Emercoin](emercoin.md)
 * [EOS](eos.md)
 * [Ethereum](ethereum.md)
 * [Ethereum classic](ethereum_classic.md)
@@ -46,6 +48,7 @@
 ## M
 * [MaidSafe](maidsafe.md)
 * [MobileGO](mobilego.md) 
+* [Metal](metal.md)
 * [Monacoin](monacoin.md)
 * [Monero](monero.md)
 ## N
@@ -55,8 +58,10 @@
 * [NXT](nxt.md)
 ## O
 * [OmiseGo](omisego.md)
+* [Omni](omni.md)
 ## P
 * [Particl](particl.md)
+* [Pillar](pillar.md)
 * [Populous](populous.md)
 ## Q
 * [Qtum](qtum.md)
