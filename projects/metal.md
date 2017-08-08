@@ -12,7 +12,7 @@
    [Facebook](https://www.facebook.com/metalpaysme/)  
    [Blog](https://blog.metalpay.com/)  
    [Telegram](https://t.me/metalpay)   
-   [Twitter](https://twitter.com/metalpaysme)	 
+   [Twitter](https://twitter.com/metalpaysme)	  
    [Slack](https://metalpay.chat/)   
 ## About   
 Bitpay startup, one more payment processing system.
