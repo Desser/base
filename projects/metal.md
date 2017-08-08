@@ -1,6 +1,6 @@
 ## Overview
    ![ logo](../projects/logo/metal.png)  
-    Name  Metal 
+    Name  Metal  
     [Website](https://www.metalpay.com/)  
     Year founded: Jun 2017  
     Currency: token [(MTL)](https://coinmarketcap.com/assets/metal/)  
