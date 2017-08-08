@@ -5,7 +5,7 @@
    Year founded:  2016   
    Currency: token [(MGO)](https://coinmarketcap.com/assets/mobilego/)  
 ## Staff 
-   Founder [Sergey Sholom](../people/sergey _sholom.md)  
+  Founder [Sergey Sholom](../people/sergey _sholom.md)  
 ## Business Model
    MobileGo tokens will be used to gamify the mobile platform, and to incentivize gamers for loyalty and participation through rewards. MobileGo tokens will also allow for smart contract technology. MobileGo tokens will allow for the development of a decentralized virtual mobile gamer marketplace, the ability for gamer vs. gamer decentralized match play, and decentralized tournaments run on smart contracts. 
 ## Contacts
