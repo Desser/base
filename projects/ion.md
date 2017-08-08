@@ -6,11 +6,11 @@ Year founded: 2015
 Currency: [ION](https://coinmarketcap.com/currencies/ion/)  
 ## Staff (as much as found)
 General Manager: [Richard Nelson](../people/richard_nelson.md)  
-Chief Strategist: [Adam Matlack](adam_matlack.md)  
-Lead Game Dev: [Thomas Le](thomas_le.md)  
-Developer: [Jordan Smith](jordan_smith.md)  
-Developer: [Mitchell Cash](mitchell_cas.md)  
-Lead Support: [Colin Adley](colin_adley.md)  
+Chief Strategist: [Adam Matlack](../people/adam_matlack.md)  
+Lead Game Dev: [Thomas Le](../people/thomas_le.md)  
+Developer: [Jordan Smith](../people/jordan_smith.md)  
+Developer: [Mitchell Cash](../people/mitchell_cas.md)  
+Lead Support: [Colin Adley](../people/colin_adley.md)  
 ## Business Model
 ION is a blockchain based decentralized cryptocurrency that rewards network participation via static proof of stake. ION rewards "connectivity age" instead of “[coin age],” thus eliminating abuse from exchanges and users that do not actively contribute to the network.  
 ## Contacts
