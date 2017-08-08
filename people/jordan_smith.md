@@ -1,7 +1,7 @@
 ## Personal data
 ![ photo](photo/jordan_smith.png)  
 Name: Jordan Smith  
-Location: USA  
+Location: USA 
 ## Projects
 Name: [ION](../projects/ion.md)  
 Position: Developer  
