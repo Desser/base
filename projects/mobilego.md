@@ -16,7 +16,7 @@
    [Slack](https://gamecredits.com/slack.html) 
    [Telegram](https://t.me/mobilego) 
 ## About 
- [Dual Blockchain Token MobileGo Raises $4.5M First 4 Hours of Crowdsale](https://news.bitcoin.com/dual-blockchain-token-mobilego-raises-4-5m-first-4-hours-of-crowdsale/)
+ [Dual Blockchain Token MobileGo Raises $4.5M First 4 Hours of Crowdsale](https://news.bitcoin.com/dual-blockchain-token-mobilego-raises-4-5m-first-4-hours-of-crowdsale/)  
  [Whitepaper](https://mobilego.io/white-paper/)
 
 
