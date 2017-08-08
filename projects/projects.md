@@ -45,6 +45,7 @@
 * [Lykke](lykke.md)
 ## M
 * [MaidSafe](maidsafe.md)
+* [MobileGO](mobilego.md) 
 * [Monacoin](monacoin.md)
 * [Monero](monero.md)
 ## N
@@ -63,6 +64,7 @@
 * [Ripple](ripple.md)
 ## S
 * [Sia](sia.md)
+* [SingularDTV](singulardtv.md)
 * [Status](status.md)
 * [Steem](steem.md)
 * [Stellar](stellar.md)
