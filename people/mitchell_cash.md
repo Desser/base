@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/mitchell_cash.md)    
+![ photo](photo/mitchell_cash.png)    
 Name: Mitchell Cash  
 Location: USA
 ## Projects 
