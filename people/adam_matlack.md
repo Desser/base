@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](logo/adam_matlack.jpg)    
+![ photo](photo/adam_matlack.jpg)    
 Name: Adam Matlack  
 Location: USA  
 ## Projects 
