@@ -2,6 +2,7 @@
 
 ## A
 * [Adam Krellenstein](adam_krellenstein.md)
+* [Adam Matlack](adam_matlack.md)
 * [Aleksandra Skrzypczak](aleksandra_skrzypczak.md)
 * [Alex Fork](alex_fork.md)
 * [Alex Sterk](alex_sterk.md)
@@ -20,7 +21,8 @@
 * [Charlie Lee](charlie_lee.md)
 * [Carl Bennetts](carl_bennetts.md)
 * [Chris Trew](chris_trew.md)   
-* [Chris Larsen](chris_larsen.md)  
+* [Chris Larsen](chris_larsen.md) 
+* [Colin Adley](colin_adley.md)
 * [Craig Sellars](craig_sellars.md)     
 ## D
 * [Da Hongfei](da_hongfei.md)  
@@ -56,6 +58,7 @@
 * [Jed McCaleb](jed_mccaleb.md)
 * [Jenny Goldberg](jenny_goldberg.md)
 * [Joey Krug](joey_krug.md)
+* [Jordan Smith](jordan_smith.md)
 * [Jonathan Smith](jonathan_smith.md)
 * [Joseph Lin](neocortex.md)
 * [Joyce Kim](joyce_kim.md)
@@ -100,6 +103,7 @@
 ## R
 * [Reeve Collins](reeve_collins.md) 
 * [Reggie Middleton](reggie_middleton.md) 
+* [Richard Nelson](richard_nelson.md)
 * [Richard Olsen](richard_olsen.md)
 * [Richard Craib](richard_craib.md)
 * [Rijk Plasman](rijk_plasman.md)
@@ -117,6 +121,7 @@
 ## T
 * [Tecnovert](tecnovert.md)
 * [Thomas König](thomas_konig.md)
+* [Thomas Le](thomas_le.md)
 * [Tim M. Zagar](tim_zagar.md)
 * [Toby Hoenisch](toby_hoenisch.md)
 * [Tomer Sofinzon](tomer_sofinzon.md)
