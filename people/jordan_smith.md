@@ -1,5 +1,5 @@
 ## Personal data
-![ photo](photo/jordan_smith.md)  
+![ photo](photo/jordan_smith.png)  
 Name: Jordan Smith  
 Location: USA  
 ## Projects
