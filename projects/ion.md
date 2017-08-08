@@ -23,3 +23,4 @@ ION is a blockchain based decentralized cryptocurrency that rewards network part
 [Twitter](https://twitter.com/ionomics)  
 ## About
 [Youtube](https://www.youtube.com/channel/UCGv83TrsLWS73jlhYFgIsnw)  
+[ION Coin Warning](https://medium.com/@icocountdown/ion-coin-warning-cb686fb6e7a4)
