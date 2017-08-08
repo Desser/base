@@ -84,6 +84,7 @@
 * [Martin Köppelmann](martin_koppelmann.md)
 * [Max Kordek](max_kordek.md)
 * [Michael Sperk](michael_sperk.md)
+* [Mitchell Cash](mitchell_cash.md)
 * [Montag](montag.md)
 * [Mr Watanabe](mrwatanabe.md)
 ## N
