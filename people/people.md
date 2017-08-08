@@ -3,6 +3,7 @@
 ## A
 * [Aleksandra Skrzypczak](aleksandra_skrzypczak.md)
 * [Alex Fork](alex_fork.md)
+* [Alex Sterk](alex_sterk.md)
 * [Andrzej Regulski](andrzej_regulski.md)
 * [Anton Churyumov](anton_churyumov.md)
 * [Anton Golub](anton_golub.md)
@@ -27,6 +28,7 @@
 * [Dominik Z](dominik_z.md)  
 * [Don Harinsut](don_harinsut.md)
 ## E
+* [Enric Duran](enric_duran.md)
 * [Eyal Hertzog](eyal_hertzog.md)
 ## G
 * [Galia Benartzi](galia_benartzi.md)
@@ -43,16 +45,22 @@
 * [Jarrad Hope](jarrad_hope.md)
 * [Jed McCaleb](jed_mccaleb.md) 
 * [Joey Krug](joey_krug.md)
+* [Jonathan Smith](jonathan_smith.md)
 * [Joyce Kim](joyce_kim.md)
 * [Jordan Earls](jordan_earls.md)
+* [Jorge Izquierdo](jorge_izquierdo.md)
 * [Julian Hosp](julian_hosp.md)
+* [Julian Yap](julian_yap.md)
 * [Julian Zawistowski](julian_zawistowski.md)
 * [Jun Hasegawa](jun_hasegawa.md)
 * [Juha Kovanen](juha_kovanen.md)
 ## K
 * [Ken Fitzsimmons](ken_fitzsimmons.md)
+* [Kris Hansen](kris_hansen.md)
 ## L
 * [Luke Champine](luke_champine.md)
+* [Luke Williams](luke_williams.md)
+* [Luis Cuende](luis_cuende.md)
 ## M
 * [Martin Allien](martin_allien.md)
 * [Martin Köppelmann](martin_koppelmann.md)
@@ -87,11 +95,14 @@
 * [Steve Nico Williams](steve_williams.md)
 ## T
 * [Tecnovert](tecnovert.md)
+* [Thomas König](thomas_konig.md)
 * [Tim M. Zagar](tim_zagar.md)
 * [Toby Hoenisch](toby_hoenisch.md)
 ## U
 * [UtopianFuture](utopianfuture.md)
 * [Ubajaka Chijioke](ubajaka_chijioke.md)
+## V
+* [Vinny Lingham](vinny_lingham.md) 
 ## X
 * [Xander Dunn](xander_dunn.md)
 ## Z

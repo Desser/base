@@ -1,6 +1,7 @@
 # List of Projects
 
 ## A
+* [Aragon](aragon.md)
 * [Augur](augur.md)
 ## B
 * [Bancor](bancor.md)
@@ -11,6 +12,7 @@
 * [BitShares](bitshares.md)
 * [Byteball](byteball.md)
 ## C
+* [Civic](civic.md)
 * [CloakCoin](cloakcoin.md)
 ## D
 * [Dash](dash.md)  
@@ -22,6 +24,7 @@
 * [Ethereum classic](ethereum_classic.md)
 ## F
 * [Factom](factom.md) 
+* [Faircoin](faircoin.md)
 ## G
 * [GameCredits](gamecredits.md)
 * [Gnosis](gnosis.md)
@@ -64,6 +67,8 @@
 ## T
 * [TenX](tenx.md)
 * [Tether](tether.md)
+## U
+* [Ubiq](ubiq.md)
 ## V
 * [Veritaseum](veritaseum.md)
 ## W
