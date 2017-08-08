@@ -46,6 +46,7 @@
 ## M
 * [MaidSafe](maidsafe.md)
 * [MobileGO](mobilego.md) 
+* [Metal](metal.md)
 * [Monacoin](monacoin.md)
 * [Monero](monero.md)
 ## N
