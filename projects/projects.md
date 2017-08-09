@@ -70,6 +70,7 @@
 * [Qtum](qtum.md)
 ## R
 * [Ripple](ripple.md)
+* [Round](round.md) 
 ## S
 * [Sia](sia.md)
 * [Sibcoin](sibcoin.md)
