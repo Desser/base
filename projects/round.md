@@ -2,7 +2,7 @@
 ![Round logo](../projects/logo/round.png)  
 Name:  Round 
 [Website](http://roundcoin.org/)  
-Year founded:  2017
+Year founded:  2017  
 Currency: token [(ROUND)](https://coinmarketcap.com/assets/round/)  
 ## Staff 
 Founder: unknown 
@@ -15,7 +15,7 @@ smart contract. Once our decentralized result verification system (RVS) has proc
 smart contract will handle both the matchmaking and reward settlement.
 ## Contacts 
 [Bitcointalk](https://bitcointalk.org/index.php?topic=1657439.0)   
-[Telegram chat RUS]( https://t.me/joinchat/AAAAAAuWPdbT7uyimTvvQg)
-[Telegram chat EN]( https://t.me/joinchat/AAAAAA1joA0aUNDDsZwi2w)
+[Telegram chat RUS]( https://t.me/joinchat/AAAAAAuWPdbT7uyimTvvQg)  
+[Telegram chat EN]( https://t.me/joinchat/AAAAAA1joA0aUNDDsZwi2w)  
 [Whitepaper](http://roundcoin.org/storage/white_paper.pdf)   
 
