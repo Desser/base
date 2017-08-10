@@ -12,12 +12,13 @@
 * [Arie Levy-Cohen](arie_levy_cohen.md) 
 * [Amjuarez](amjuarez.md)  
 ## B
+* [BCNext](bcnext.md)
 * [Billy Markus](billy_markus.md)
+* [bitcoinsrus](bitcoinsrus.md) 
 * [bitdealco](bitdealco.md)  
 * [Boris Povod](boris_povod.md)
 * [Brock Pierce](brock_pierce.md)
 * [Brock Pierce](brock_pierce.md)  
-* [BCNext](bcnext.md)
 ## C
 * [Charlie Lee](charlie_lee.md)
 * [Carl Bennetts](carl_bennetts.md)
