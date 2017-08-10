@@ -13,4 +13,4 @@
 ## Tags: 
 #ethereum, #etc, #mantis, #iohk
 ## Source Link
-[Mantis – Ethereum Classic Beta Release](https://iohk.io/blog/mantis-ethereum-classic-beta-release/?utm_content=buffera0afa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+[Mantis – Ethereum Classic Beta Release](https://iohk.io/blog/mantis-ethereum-classic-beta-release/)
