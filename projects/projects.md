@@ -3,12 +3,15 @@
 ## A
 * [Aragon](aragon.md)
 * [Ardor](ardor.md)
+* [Ark](ark.md)
+* [Asch](asch.md)
 * [Augur](augur.md)
 ## B
 * [Bancor](bancor.md)
 * [Basic Attention Token](bat.md)
 * [BitBay](bitbay.md)
 * [Bitcoin](bitcoin.md)
+* [BitcoinDark](bitcoindark.md)
 * [Bitcoin Cash](bitcoin_cash.md)
 * [BitConnect](bitconnect.md)
 * [Bitdeal](bitdeal.md)
@@ -19,6 +22,7 @@
 ## C
 * [Civic](civic.md)
 * [CloakCoin](cloakcoin.md)
+* [Cloud](cloud.md)
 * [CoEval](coeval.md)
 * [Counterparty](counterparty.md)
 ## D
@@ -26,8 +30,10 @@
 * [DECENT](decent.md)
 * [DeCred](decred.md)
 * [DigiByte](digibyte.md)
+* [DigixDAO](digixdao.md)
 * [Dogecoin](dogecoin.md)
 ## E
+* [E-Dinar](e-dinar.md)
 * [Edgeless](edgeless.md)
 * [Emercoin](emercoin.md)
 * [EOS](eos.md)
@@ -38,6 +44,7 @@
 * [Factom](factom.md) 
 * [Faircoin](faircoin.md)
 * [FirstBlood](firstblood.md)
+* [FunFair](funfair.md)
 ## G
 * [GameCredits](gamecredits.md)
 * [Gnosis](gnosis.md)
@@ -47,17 +54,21 @@
 * [Humaniq](humaniq.md)
 ## I
 * [Iconomi](iconomi.md)
+* [iExec RLC](rlc.md)
 * [ION](ion.md)
 * [IOTA](iota.md)
 ## K
 * [Komodo](komodo.md)
 ## L
+* [LBRY](lbry.md)
+* [LEOcoin](leocoin.md)
 * [Lisk](lisk.md)
 * [Litecoin](litecoin.md)
 * [Lykke](lykke.md)
 ## M
 * [MaidSafe](maidsafe.md)
 * [Melon](melon.md)
+* [MCAP](mcap.md)
 * [MobileGO](mobilego.md) 
 * [Metal](metal.md)
 * [Monacoin](monacoin.md)
@@ -66,6 +77,7 @@
 * [Namecoin](namecoin.md)
 * [NEM](nem.md)
 * [NEO](neo.md)
+* [Nexus](nexus.md)
 * [Numerai](numerai.md)
 * [NXT](nxt.md)
 ## O
@@ -76,6 +88,7 @@
 * [Peercoin](peercoin.md)
 * [PeerPlays](peerplays.md)
 * [Pillar](pillar.md)
+* [PIVX](pivx.md)
 * [Populous](populous.md)
 * [Potcoin](potcoin.md)
 ## Q
@@ -96,6 +109,7 @@
 * [Stellar](stellar.md)
 * [Storj](storj.md)
 * [Stratis](stratis.md)
+* [SysCoin](syscoin.md)
 ## T
 * [TenX](tenx.md)
 * [Tether](tether.md)
