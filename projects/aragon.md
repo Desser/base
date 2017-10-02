@@ -21,3 +21,6 @@ Aragon is the decentralized corporate management platform for Ethereum based com
 [Another Bitcointalk thread](https://bitcointalk.org/index.php?topic=1925778.0)  
 [FAQ](https://aragon.one/faq)  
 [Aragon Network Details](https://aragon.network/)  
+
+<a class="twitter-timeline" href="https://twitter.com/AragonProject?ref_src=twsrc%5Etfw">Tweets by AragonProject</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
